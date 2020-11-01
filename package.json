@@ -1,0 +1,36 @@
+git{
+  "name": "Burger-Logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukediz/Burger-Logger.git"
+  },
+  "keywords": [],
+  "author": "Sukey Ong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukediz/Burger-Logger/issues"
+  },
+  "homepage": "https://github.com/sukediz/Burger-Logger#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "handlebars": ">=4.1.2",
+    "lodash": ">=4.17.13"
+  },
+  "devDependencies": {
+    "handlebars": ">=4.1.2",
+    "lodash": ">=4.17.13"
+  }
+}
